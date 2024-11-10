@@ -17,6 +17,10 @@ YOLO
 
 Explain how to use your project
 
+I am still working on how to make it work. Test by runnning random input
+
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+
+Im going to implement external led for funsies
